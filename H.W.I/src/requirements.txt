@@ -1,0 +1,5 @@
+open3d
+pyttsx3
+opencv-python
+mediapipe
+numpy
