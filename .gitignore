@@ -34,8 +34,6 @@ out/
 
 # Pliki do ARDUINO
 *.hex
-*.cpp
-*.ino
 
 # Inne pliki generowane przez system
 *.class
