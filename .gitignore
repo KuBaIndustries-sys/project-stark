@@ -1,0 +1,56 @@
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Zależności / Biblioteki
+node_modules/
+vendor/
+
+# Pliki IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Kompilacje
+bin/
+build/
+dist/
+out/
+
+# Pliki środowiskowe
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Pliki zrzutów
+*.log
+*.bak
+*.swp
+*.swo
+*.swn
+
+# Pliki do ARDUINO
+*.hex
+*.cpp
+*.ino
+
+# Inne pliki generowane przez system
+*.class
+*.exe
+*.dll
+
+# Obrazy i pliki 3D
+*.stl
+*.obj
+*.fbx
+*.gltf
+*.glb
+
+# Zależności platformy
+*.iml
+
+# Ignorowanie pliku Notes.md
+Notes.md
